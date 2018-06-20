@@ -1,0 +1,7 @@
+{
+  "apps" : [{
+    "name" : "Pipeline test",
+    "script" : "./bin/www",
+    "cwd" : "/home/vagrant/jenkins_slave/workspace/PipelineJob"
+   }]
+}
